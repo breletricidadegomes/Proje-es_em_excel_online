@@ -1,3 +1,5 @@
+![Excel Online](https://img.shields.io/badge/Excel%20Online-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 # Automação de Projeção de Séries Temporais (Office Script)
 
 Script em **TypeScript para Office Scripts (Excel Online / Power Automate)** que gera projeções futuras de indicadores mensais a partir de um histórico armazenado em tabela do Excel, usando regressão linear (`FORECAST.LINEAR`).
